@@ -1,0 +1,1 @@
+vkminer.exe -a bitfree -u  bfctest.test001 -o stratum+tcp://ss.bfcpool.com:3333  -i 10
